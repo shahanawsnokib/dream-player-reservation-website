@@ -22,9 +22,11 @@ const playersPromise = playersFetch()
       
       <Nav /> 
       <Hero />
+      
       <Suspense fallback={<div>Loading...</div>}>
         <Players playersPromise={playersPromise} />
       </Suspense>
+
 
       
       </div>
