@@ -1,0 +1,182 @@
+[
+  {
+    "playername": "Rohit Sharma",
+    "PlayerImage": "https://example.com/rohit.jpg",
+    "Origin": "India",
+    "PlayerType": "Batsman",
+    "bowlingStyle": "Right-arm off-break",
+    "BattingStyle": "Right-hand",
+    "price": 135000
+  },
+  {
+    "playername": "KL Rahul",
+    "PlayerImage": "https://example.com/kl-rahul.jpg",
+    "Origin": "India",
+    "PlayerType": "Wicketkeeper-Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "BattingStyle": "Right-hand",
+    "price": 120000
+  },
+  {
+    "playername": "Hardik Pandya",
+    "PlayerImage": "https://example.com/hardik.jpg",
+    "Origin": "India",
+    "PlayerType": "All-Rounder",
+    "bowlingStyle": "Right-arm fast-medium",
+    "BattingStyle": "Right-hand",
+    "price": 130000
+  },
+  {
+    "playername": "Ravindra Jadeja",
+    "PlayerImage": "https://example.com/jadeja.jpg",
+    "Origin": "India",
+    "PlayerType": "All-Rounder",
+    "bowlingStyle": "Left-arm orthodox",
+    "BattingStyle": "Left-hand",
+    "price": 125000
+  },
+  {
+    "playername": "Mohammed Shami",
+    "PlayerImage": "https://example.com/shami.jpg",
+    "Origin": "India",
+    "PlayerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "BattingStyle": "Right-hand",
+    "price": 115000
+  },
+  {
+    "playername": "Suryakumar Yadav",
+    "PlayerImage": "https://example.com/suryakumar.jpg",
+    "Origin": "India",
+    "PlayerType": "Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "BattingStyle": "Right-hand",
+    "price": 125000
+  },
+  {
+    "playername": "David Warner",
+    "PlayerImage": "https://example.com/warner.jpg",
+    "Origin": "Australia",
+    "PlayerType": "Batsman",
+    "bowlingStyle": "Right-arm leg-break",
+    "BattingStyle": "Left-hand",
+    "price": 110000
+  },
+  {
+    "playername": "Steve Smith",
+    "PlayerImage": "https://example.com/smith.jpg",
+    "Origin": "Australia",
+    "PlayerType": "Batsman",
+    "bowlingStyle": "Right-arm leg-break",
+    "BattingStyle": "Right-hand",
+    "price": 120000
+  },
+  {
+    "playername": "Glenn Maxwell",
+    "PlayerImage": "https://example.com/maxwell.jpg",
+    "Origin": "Australia",
+    "PlayerType": "All-Rounder",
+    "bowlingStyle": "Right-arm off-break",
+    "BattingStyle": "Right-hand",
+    "price": 130000
+  },
+  {
+    "playername": "Mitchell Starc",
+    "PlayerImage": "https://example.com/starc.jpg",
+    "Origin": "Australia",
+    "PlayerType": "Bowler",
+    "bowlingStyle": "Left-arm fast",
+    "BattingStyle": "Left-hand",
+    "price": 140000
+  },
+  {
+    "playername": "Ben Stokes",
+    "PlayerImage": "https://example.com/stokes.jpg",
+    "Origin": "England",
+    "PlayerType": "All-Rounder",
+    "bowlingStyle": "Left-arm fast-medium",
+    "BattingStyle": "Left-hand",
+    "price": 135000
+  },
+  {
+    "playername": "Joe Root",
+    "PlayerImage": "https://example.com/root.jpg",
+    "Origin": "England",
+    "PlayerType": "Batsman",
+    "bowlingStyle": "Right-arm off-break",
+    "BattingStyle": "Right-hand",
+    "price": 115000
+  },
+  {
+    "playername": "Sam Curran",
+    "PlayerImage": "https://example.com/sam-curran.jpg",
+    "Origin": "England",
+    "PlayerType": "All-Rounder",
+    "bowlingStyle": "Left-arm medium-fast",
+    "BattingStyle": "Left-hand",
+    "price": 105000
+  },
+  {
+    "playername": "Jonny Bairstow",
+    "PlayerImage": "https://example.com/bairstow.jpg",
+    "Origin": "England",
+    "PlayerType": "Wicketkeeper-Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "BattingStyle": "Right-hand",
+    "price": 110000
+  },
+  {
+    "playername": "Quinton de Kock",
+    "PlayerImage": "https://example.com/de-kock.jpg",
+    "Origin": "South Africa",
+    "PlayerType": "Wicketkeeper-Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "BattingStyle": "Left-hand",
+    "price": 120000
+  },
+  {
+    "playername": "Kagiso Rabada",
+    "PlayerImage": "https://example.com/rabada.jpg",
+    "Origin": "South Africa",
+    "PlayerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "BattingStyle": "Left-hand",
+    "price": 125000
+  },
+  {
+    "playername": "Aiden Markram",
+    "PlayerImage": "https://example.com/markram.jpg",
+    "Origin": "South Africa",
+    "PlayerType": "All-Rounder",
+    "bowlingStyle": "Right-arm off-break",
+    "BattingStyle": "Right-hand",
+    "price": 110000
+  },
+  {
+    "playername": "Nicholas Pooran",
+    "PlayerImage": "https://example.com/pooran.jpg",
+    "Origin": "West Indies",
+    "PlayerType": "Wicketkeeper-Batsman",
+    "bowlingStyle": "Right-arm off-break",
+    "BattingStyle": "Left-hand",
+    "price": 125000
+  },
+  {
+    "playername": "Shimron Hetmyer",
+    "PlayerImage": "https://example.com/hetmyer.jpg",
+    "Origin": "West Indies",
+    "PlayerType": "Batsman",
+    "bowlingStyle": "Right-arm leg-break",
+    "BattingStyle": "Left-hand",
+    "price": 95000
+  },
+  {
+    "playername": "Wanindu Hasaranga",
+    "PlayerImage": "https://example.com/hasaranga.jpg",
+    "Origin": "Sri Lanka",
+    "PlayerType": "All-Rounder",
+    "bowlingStyle": "Right-arm leg-break",
+    "BattingStyle": "Right-hand",
+    "price": 105000
+  }
+]
